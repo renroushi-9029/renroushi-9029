@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 17 | 🇵🇭  
-Future Cybersecurity Specialist • Tech enthusiast  
+Future Cybersecurity Specialist • Tech enthusiast • Full Stack Developer
 Powered by coffee, clutch games, and music🎧
 
 🔭 &nbsp;I'm currently working on **Bantay-Bakwit – disaster response &amp; tracking platform**  
